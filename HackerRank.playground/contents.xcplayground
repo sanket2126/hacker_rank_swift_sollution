@@ -4,5 +4,9 @@
         <page name='Mini_Max_Sum'/>
         <page name='Plus_Minus'/>
         <page name='Time_Conversion'/>
+        <page name='Sparse_Array'/>
+        <page name='Lonely_Integer'/>
+        <page name='Flipping_Bits'/>
+        <page name='Diagonal_Difference'/>
     </pages>
 </playground>
