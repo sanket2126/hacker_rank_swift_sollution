@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
     <pages>
-        <page name='Mini_Max_Sum'/>
         <page name='Plus_Minus'/>
         <page name='Time_Conversion'/>
+        <page name='Mini_Max_Sum'/>
         <page name='Sparse_Array'/>
         <page name='Lonely_Integer'/>
         <page name='Flipping_Bits'/>
         <page name='Diagonal_Difference'/>
+        <page name='Counting_Sort'/>
+        <page name='Pangrams'/>
     </pages>
 </playground>
