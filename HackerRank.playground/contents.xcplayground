@@ -10,5 +10,7 @@
         <page name='Diagonal_Difference'/>
         <page name='Counting_Sort'/>
         <page name='Pangrams'/>
+        <page name='Permuting_2Arrays'/>
+        <page name='SubArray_Division'/>
     </pages>
 </playground>
