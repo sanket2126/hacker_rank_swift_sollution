@@ -12,5 +12,6 @@
         <page name='Pangrams'/>
         <page name='Permuting_2Arrays'/>
         <page name='SubArray_Division'/>
+        <page name='XOR_String2'/>
     </pages>
 </playground>
