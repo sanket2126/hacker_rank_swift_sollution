@@ -5,5 +5,6 @@
         <page name='Sales_By_Match'/>
         <page name='Drawing_Book'/>
         <page name='Tower_Breaker'/>
+        <page name='Caesar_cipher'/>
     </pages>
 </playground>
