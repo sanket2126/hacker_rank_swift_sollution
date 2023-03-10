@@ -24,17 +24,17 @@ func dynamicArray(n: Int, queries: [[Int]]) -> [Int] {
     var result = [Int]()
     
     for q in queries {
-      let x = q[1]
-      let y = q[2]
-      let pos = (x ^ lastAnswer) % n
-      
-      if q[0] == 1 {
-        arr[pos].append(y)
-      } else {
-        let seq = arr[pos]
-        lastAnswer = seq[y % seq.count]
-        result.append(lastAnswer)
-      }
+        let x = q[1]
+        let y = q[2]
+        let pos = (x ^ lastAnswer) % n
+        
+        if q[0] == 1 {
+            arr[pos].append(y)
+        } else {
+            let seq = arr[pos]
+            lastAnswer = seq[y % seq.count]
+            result.append(lastAnswer)
+        }
     }
     return result
 }

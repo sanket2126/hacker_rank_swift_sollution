@@ -8,5 +8,6 @@
         <page name='Caesar_cipher'/>
         <page name='Max_Min'/>
         <page name='Dynamic_Array'/>
+        <page name='Grid_Challenge'/>
     </pages>
 </playground>
