@@ -10,5 +10,7 @@
         <page name='Dynamic_Array'/>
         <page name='Grid_Challenge'/>
         <page name='Prime_dates'/>
+        <page name='Sherlock_Array'/>
+        <page name='All_substring_palindrome'/>
     </pages>
 </playground>
