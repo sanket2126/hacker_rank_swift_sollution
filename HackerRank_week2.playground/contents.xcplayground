@@ -12,5 +12,6 @@
         <page name='Prime_dates'/>
         <page name='Sherlock_Array'/>
         <page name='All_substring_palindrome'/>
+        <page name='Recursive_digit_sum'/>
     </pages>
 </playground>
