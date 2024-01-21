@@ -54,3 +54,5 @@ func counterGame(n: Int) -> String {
  As 2 is a power of 2, Richard reduces the counter by half of 2 i.e. 1. Hence the counter reduces to 1.
  As we reach the terminating condition with N == 1, Richard wins the game.
  */
+
+counterGame(n: 134)
