@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Current_working_page'/>
+        <page name='MountainPeak'/>
+        <page name='Untitled Page'/>
+        <page name='All_substring_palindrome'/>
+        <page name='PairUpto_100'/>
+    </pages>
+</playground>

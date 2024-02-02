@@ -1,9 +1,7 @@
 //: [Previous](@previous)
 
-import Foundation
+// MARK: Watson gives Sherlock an array of integers. His challenge is to find an element of the array such that the sum of all elements to the left is equal to the sum of all elements to the right.
 /*
- Watson gives Sherlock an array of integers. His challenge is to find an element of the array such that the sum of all elements to the left is equal to the sum of all elements to the right.
- 
 arr = [5,6,8,11]
 8 is between two subarrays that sum to 11.
 
@@ -32,3 +30,5 @@ func balancedSums(arr: [Int]) -> String {
     
     return (low == high) ? "YES" : "NO"
 }
+
+print(balancedSums(arr: [5,6,8,11]))
