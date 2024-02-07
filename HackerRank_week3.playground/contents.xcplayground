@@ -5,5 +5,6 @@
         <page name='New_Year_Chaos'/>
         <page name='Climbing_LeaderBoard'/>
         <page name='BomberMan'/>
+        <page name='ReversedLinkedList'/>
     </pages>
 </playground>
