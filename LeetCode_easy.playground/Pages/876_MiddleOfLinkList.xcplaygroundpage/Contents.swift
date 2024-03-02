@@ -28,3 +28,14 @@ class Solution {
         return slow
     }
 }
+
+// TEST
+let sol = Solution()
+
+var l1 = ListNode(3,ListNode(2, ListNode(5, ListNode(12, ListNode(9)))))
+
+print(sol.middleNode(l1)?.val) // from 5
+
+
+var l2 = ListNode(7,ListNode(1, ListNode(3, ListNode(11))))
+print(sol.middleNode(l2)?.val) // 3
