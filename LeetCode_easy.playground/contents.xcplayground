@@ -3,5 +3,6 @@
     <pages>
         <page name='141_LinkedListCycle'/>
         <page name='876_MiddleOfLinkList'/>
+        <page name='3005_CountEleMaxFreq'/>
     </pages>
 </playground>
