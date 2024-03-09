@@ -21,6 +21,7 @@ func maxFrequencyElements(_ nums: [Int]) -> Int {
     return sum
 }
 
+// TEST
 print(maxFrequencyElements([1,2,2,3,1,4]))
 
 print(maxFrequencyElements([1,2,3,4,5]))

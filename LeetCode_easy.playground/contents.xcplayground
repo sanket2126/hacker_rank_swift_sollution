@@ -4,5 +4,6 @@
         <page name='141_LinkedListCycle'/>
         <page name='876_MiddleOfLinkList'/>
         <page name='3005_CountEleMaxFreq'/>
+        <page name='2540_MinCommonValue'/>
     </pages>
 </playground>
