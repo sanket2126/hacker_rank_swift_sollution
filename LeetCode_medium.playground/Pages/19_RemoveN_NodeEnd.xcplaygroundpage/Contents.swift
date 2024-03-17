@@ -11,6 +11,28 @@ public class ListNode {
 }
 
 func removeNthFromEnd(_ head: ListNode?, _ n: Int) -> ListNode? {
+    if head?.next == nil, n == 1 {
+        return nil
+    }
+    
+    var fastPtr = head
+    var slowPtr = head
+    for _ in 1...n {
+        fastPtr = fastPtr?.next
+    }
+    if fastPtr == nil {
+        return head?.next
+    }
+    while fastPtr?.next != nil {
+        fastPtr = fastPtr?.next
+        slowPtr = slowPtr?.next
+    }
+    slowPtr?.next = slowPtr?.next?.next
+    return head
+}
+
+//MARK: Below one is not space and time efficient
+func removeNthFromEnd2(_ head: ListNode?, _ n: Int) -> ListNode? {
     var head1 = head
     if (head == nil) || (head?.next == nil) {
         return nil
