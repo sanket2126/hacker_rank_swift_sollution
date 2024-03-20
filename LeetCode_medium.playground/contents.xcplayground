@@ -4,5 +4,7 @@
         <page name='513_BottomLeftTreeValue'/>
         <page name='1609_EvenOddTree'/>
         <page name='19_RemoveN_NodeEnd'/>
+        <page name='948_BagOfTokens'/>
+        <page name='1750_MinLenghtOfStrAftrDeleteSiliarEnds'/>
     </pages>
 </playground>
