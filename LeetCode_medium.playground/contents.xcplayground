@@ -6,5 +6,7 @@
         <page name='19_RemoveN_NodeEnd'/>
         <page name='948_BagOfTokens'/>
         <page name='1750_MinLenghtOfStrAftrDeleteSiliarEnds'/>
+        <page name='442_FindAllDuplicatesinArray'/>
+        <page name='287_FindDuplicateNumber'/>
     </pages>
 </playground>
