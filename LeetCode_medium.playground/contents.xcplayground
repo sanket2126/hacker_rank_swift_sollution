@@ -8,5 +8,7 @@
         <page name='1750_MinLenghtOfStrAftrDeleteSiliarEnds'/>
         <page name='442_FindAllDuplicatesinArray'/>
         <page name='287_FindDuplicateNumber'/>
+        <page name='143_ReorderList'/>
+        <page name='1669_MergeInBetnList'/>
     </pages>
 </playground>

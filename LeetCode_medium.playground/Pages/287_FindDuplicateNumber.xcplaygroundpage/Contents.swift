@@ -26,6 +26,18 @@ func findDuplicate(_ nums: [Int]) -> Int {
    return fast
 }
 
+func findDuplicate1(_ nums: [Int]) -> Int {
+    var nums = nums
+    for i in 0..<nums.count{
+        var index = abs(nums[i])
+        if nums[index] < 0 {
+            return index
+        }
+        nums[index] = -nums[index]
+    }
+
+    return -1
+}
 
 // O(n) space and time complexity
 func findDuplicate2(_ nums: [Int]) -> Int {
