@@ -6,5 +6,8 @@
         <page name='3005_CountEleMaxFreq'/>
         <page name='2540_MinCommonValue'/>
         <page name='206_ReverseLinkedList'/>
+        <page name='1544_MakeTheStringGreat'/>
+        <page name='1614_MaxNestingDepthofParentheses'/>
+        <page name='205_IsomorphicStrings'/>
     </pages>
 </playground>

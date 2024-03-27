@@ -40,6 +40,6 @@ var l1 = ListNode(3,ListNode(2, ListNode(0, ListNode(5))))
 var rev = reverseList(l1)
 
 while rev != nil {
-    print(rev?.val)
+    print(rev?.val ?? 0)
     rev = rev?.next
 }
