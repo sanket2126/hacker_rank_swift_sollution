@@ -9,5 +9,9 @@
         <page name='1544_MakeTheStringGreat'/>
         <page name='1614_MaxNestingDepthofParentheses'/>
         <page name='205_IsomorphicStrings'/>
+        <page name='58_LengthOfLastWord'/>
+        <page name='349_IntersectionTwoArrays'/>
+        <page name='2485_FindPivotInteger'/>
+        <page name='1700_NumberStudentUnableEatLunch'/>
     </pages>
 </playground>
