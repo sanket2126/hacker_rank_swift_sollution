@@ -13,5 +13,6 @@
         <page name='349_IntersectionTwoArrays'/>
         <page name='2485_FindPivotInteger'/>
         <page name='1700_NumberStudentUnableEatLunch'/>
+        <page name='2073_TimeNeededBuyTickets'/>
     </pages>
 </playground>
