@@ -12,5 +12,8 @@
         <page name='1669_MergeInBetnList'/>
         <page name='791_CustomSortString'/>
         <page name='1171_RemoveZeroSumConsecutiveNodesLinkedList'/>
+        <page name='930_BinarySubarraysWithSum'/>
+        <page name='238_ProductofArrayExceptSelf'/>
+        <page name='525_ContiguousArray'/>
     </pages>
 </playground>
