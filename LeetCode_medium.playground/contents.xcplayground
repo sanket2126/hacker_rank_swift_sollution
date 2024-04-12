@@ -15,5 +15,8 @@
         <page name='930_BinarySubarraysWithSum'/>
         <page name='238_ProductofArrayExceptSelf'/>
         <page name='525_ContiguousArray'/>
+        <page name='452_MinimumNumArrowsToBurstBalloons'/>
+        <page name='713_SubarrayProductLessThanK'/>
+        <page name='2958_LengthLongestSubarrayWithAtMostKFreq'/>
     </pages>
 </playground>
