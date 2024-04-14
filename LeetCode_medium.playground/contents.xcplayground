@@ -18,5 +18,8 @@
         <page name='452_MinimumNumArrowsToBurstBalloons'/>
         <page name='713_SubarrayProductLessThanK'/>
         <page name='2958_LengthLongestSubarrayWithAtMostKFreq'/>
+        <page name='2962_CountSubarraysWhereMaxEleAppearsAtLeastKTimes'/>
+        <page name='79_WordSearch'/>
+        <page name='1249_MinimumRemoveMakeValidParentheses'/>
     </pages>
 </playground>
