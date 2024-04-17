@@ -21,5 +21,7 @@
         <page name='2962_CountSubarraysWhereMaxEleAppearsAtLeastKTimes'/>
         <page name='79_WordSearch'/>
         <page name='1249_MinimumRemoveMakeValidParentheses'/>
+        <page name='678_Valid_Parenthesis_String'/>
+        <page name='950_RevealCardsInIncreasingOrder'/>
     </pages>
 </playground>
