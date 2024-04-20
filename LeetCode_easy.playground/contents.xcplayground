@@ -14,5 +14,7 @@
         <page name='2485_FindPivotInteger'/>
         <page name='1700_NumberStudentUnableEatLunch'/>
         <page name='2073_TimeNeededBuyTickets'/>
+        <page name='404_SumOfLeftLeaves'/>
+        <page name='463_IslandPerimeter'/>
     </pages>
 </playground>
