@@ -23,5 +23,9 @@
         <page name='1249_MinimumRemoveMakeValidParentheses'/>
         <page name='678_Valid_Parenthesis_String'/>
         <page name='950_RevealCardsInIncreasingOrder'/>
+        <page name='402_RemoveKDigits'/>
+        <page name='623_AddOneRowToTree'/>
+        <page name='129_SumRootToLeafNumbers'/>
+        <page name='988_SmallestStringStartingFromLeaf'/>
     </pages>
 </playground>
