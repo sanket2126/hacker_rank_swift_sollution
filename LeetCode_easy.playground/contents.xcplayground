@@ -15,6 +15,9 @@
         <page name='1700_NumberStudentUnableEatLunch'/>
         <page name='2073_TimeNeededBuyTickets'/>
         <page name='404_SumOfLeftLeaves'/>
+        <page name='2000_ReversePrefixWord'/>
         <page name='463_IslandPerimeter'/>
+        <page name='506_RelativeRanks'/>
+        <page name='2441_LargestPositiveIntegerThatExistsWithItsNegative'/>
     </pages>
 </playground>
