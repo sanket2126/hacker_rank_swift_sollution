@@ -18,6 +18,7 @@
         <page name='2000_ReversePrefixWord'/>
         <page name='463_IslandPerimeter'/>
         <page name='506_RelativeRanks'/>
+        <page name='1971_FindIfPathExistsGraph'/>
         <page name='2441_LargestPositiveIntegerThatExistsWithItsNegative'/>
     </pages>
 </playground>
