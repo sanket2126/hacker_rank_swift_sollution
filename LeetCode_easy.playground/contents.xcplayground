@@ -20,5 +20,7 @@
         <page name='506_RelativeRanks'/>
         <page name='1971_FindIfPathExistsGraph'/>
         <page name='2441_LargestPositiveIntegerThatExistsWithItsNegative'/>
+        <page name='1137_N-th_TribonacciNumber'/>
+        <page name='2331_EvaluateBooleanBinaryTree'/>
     </pages>
 </playground>
