@@ -4,5 +4,6 @@
         <page name='992_SubarrayswithKDifferentIntegers'/>
         <page name='2444_CountSubarraysWithFixedBounds'/>
         <page name='41_FirstMissingPositive'/>
+        <page name='42_TrappingRainWater'/>
     </pages>
 </playground>
