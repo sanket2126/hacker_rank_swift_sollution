@@ -27,5 +27,6 @@
         <page name='623_AddOneRowToTree'/>
         <page name='129_SumRootToLeafNumbers'/>
         <page name='988_SmallestStringStartingFromLeaf'/>
+        <page name='200_NumberOfIslands'/>
     </pages>
 </playground>
